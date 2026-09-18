@@ -1,0 +1,38 @@
+{
+  "personal": {
+    "fullName": "Your Name",
+    "email": "you@example.com",
+    "phone": "+91-0000000000",
+    "location": "Bengaluru, Karnataka, IN",
+    "linkedin": "https://linkedin.com/in/your-handle",
+    "github": "https://github.com/your-handle",
+    "portfolio": ""
+  },
+  "summary": "Early-career software engineer focused on application security, QA, and DevSecOps.",
+  "experience": [
+    {
+      "company": "Company Name",
+      "role": "Software Engineer",
+      "startDate": "2025-01",
+      "endDate": "Present",
+      "bullets": [
+        "Describe a key contribution or project here.",
+        "Describe another achievement with a measurable result."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University Name",
+      "degree": "B.E./B.Tech Computer Science and Engineering",
+      "graduationYear": "2025"
+    }
+  ],
+  "skills": ["Java", "TypeScript", "SQL", "Playwright", "Burp Suite", "Semgrep"],
+  "preferences": {
+    "visaSponsorshipNeeded": false,
+    "willingToRelocate": true,
+    "expectedSalary": "Negotiable",
+    "noticePeriod": "Immediate"
+  }
+}

@@ -1,0 +1,33 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# production
+build/
+
+# env files (never commit real secrets)
+.env
+.env.local
+.env*.local
+
+# database
+prisma/dev.db
+prisma/dev.db-journal
+*.db
+
+# candidate data (contains PII - resume, contact info)
+data/candidate.json
+data/resume.pdf
+
+# screenshots (may contain PII from submitted applications)
+public/screenshots/*
+!public/screenshots/.gitkeep
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
+.vscode/
